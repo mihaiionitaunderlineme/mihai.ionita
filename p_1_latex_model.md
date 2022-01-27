@@ -23,4 +23,13 @@ iar cu:
 \setcellgapes{5pt}
 ```
 ![tabel2](https://user-images.githubusercontent.com/16071968/151431501-e85505e0-f7d5-4907-89a8-a3006b281e32.PNG)
-Rezolvarea problemelor cu textul din tabele. 
+Ca cerinta specifica aveam trecerea de la Nivelul I - Capitolul 4, Nivelul II - Subcapitolul 4,1 catre nivelul III care trebuia sa contina enumerarea pe baza de litere. 
+Fara cod avem ca rezultat
+![tabel3](https://user-images.githubusercontent.com/16071968/151435190-2806572b-d6ea-4e3d-a2c0-758b483500bd.PNG)
+iar cu: 
+```LaTeX
+\usepackage[shortlabels]{enumitem}
+```
+![tabel4](https://user-images.githubusercontent.com/16071968/151435212-e062b318-6158-422f-8be8-add2b4eb83e1.PNG)
+
+
