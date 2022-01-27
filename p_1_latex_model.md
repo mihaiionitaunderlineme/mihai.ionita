@@ -5,5 +5,6 @@
 [instructiune_lucru_template.pdf](https://github.com/mihaiionitaunderlineme/mihai.ionita/files/7953045/instructiune_lucru_template.pdf)
 <br>COD<br>
 ```
-\documentclass[11pt,a4paper]{article}
+\documentclass[11pt,a4paper]{article} code
 ```
+Test
