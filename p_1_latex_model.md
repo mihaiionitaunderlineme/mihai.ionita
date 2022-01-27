@@ -35,7 +35,7 @@ iar cu: <br>
 ![tabel4](https://user-images.githubusercontent.com/16071968/151435212-e062b318-6158-422f-8be8-add2b4eb83e1.PNG) <br>
 In vederea realizarii primei pagini s-a introdus secventa de cod <br>
 ```LaTeX
-\newcommand{\size}[2]{{\fontsize{#1}{0}\selectfont#2}}
+\newcommand{\size}[2]{{\fontsize{number_sign_1}{0}\selectfont_number_sign_2}}
 \newenvironment{sizepar}[2]
  {\par\fontsize{#1}{#2}\selectfont}
  {\par}
