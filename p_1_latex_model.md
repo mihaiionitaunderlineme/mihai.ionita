@@ -31,5 +31,22 @@ iar cu:
 \usepackage[shortlabels]{enumitem}
 ```
 ![tabel4](https://user-images.githubusercontent.com/16071968/151435212-e062b318-6158-422f-8be8-add2b4eb83e1.PNG)
-
+In vederea realizarii primei pagini s-a introdus secventa de cod
+```LaTeX
+\newcommand{\size}[2]{{\fontsize{#1}{0}\selectfont#2}}
+\newenvironment{sizepar}[2]
+ {\par\fontsize{#1}{#2}\selectfont}
+ {\par}
+```
+Iar pentru incadrarea in pagina secventa de cod
+```LaTeX
+\RequirePackage[left=0.59in,right=0.59in,top=0.69in,bottom=1.39in]{geometry}
+\setlength{\headsep}{0mm} 
+ \addtolength{\textfloatsep}{-0.6cm}
+  \addtolength{\abovecaptionskip}{-1.6cm}
+```
+facand astfel diferenta dintre (fara cod)
+![tabel5](https://user-images.githubusercontent.com/16071968/151440207-40880a03-5ea7-4c39-8c06-741ecbedaa15.PNG)
+si dintre (cu cod)
+![tabel6](https://user-images.githubusercontent.com/16071968/151440333-a1a7595b-f82d-4bb9-84d5-d61711e4f1c2.PNG)
 
