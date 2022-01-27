@@ -3,5 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Consilier asistent Laboratorul Central pentru Calitatea Semințelor și a Materialului Săditor București
   <br><br>
-  Inginer Biotehnolog, Specializarea Biotehnologii agricole, 2011 cu Master Aplicaţii moderne ale biotehnologiilor în agricultură, 2013 - USAMVB
+  Inginer Biotehnolog, Specializarea Biotehnologii agricole, 2011 
+  <br>
+  Master Aplicații moderne ale biotehnologiilor în agricultură, 2013 - USAMVB
 theme: jekyll-theme-minimal
