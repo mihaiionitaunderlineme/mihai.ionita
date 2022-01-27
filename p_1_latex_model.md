@@ -6,13 +6,21 @@
 <br>Comentarii la cudul sursa<br>
 <br><br>
 Preambulul documentului
-<br>
 ```LaTeX
 \documentclass[11pt,a4paper]{article}
 ```
-<br>
-Permite setarea unui font caracteristic - de interes a fost fontul Arial narrow. Necesita compilarea cu XeTeX sau LuaTex.
-<br>
+Permite setarea unui font caracteristic - de interes a fost fontul Arial narrow. Necesita compilarea cu XeTeX sau LuaTex. Fosierul arialn.ttf a fost incarcat in mod specific. Se poate folosi astfel orice font. 
 ```LaTeX
-\documentclass[11pt,a4paper]{article}
+\usepackage{fontspec}
+\setmainfont{arialn.ttf}
 ```
+Rezolvarea problemelor cu textul din tabele. 
+Fara cod avem ca rezultat
+![tabel1](https://user-images.githubusercontent.com/16071968/151431475-1c021087-0db4-4f45-9a8a-c9c4add8a045.PNG)
+iar cu 
+```LaTeX
+\usepackage{makecell} 
+\setcellgapes{5pt}
+```
+![tabel2](https://user-images.githubusercontent.com/16071968/151431501-e85505e0-f7d5-4907-89a8-a3006b281e32.PNG)
+
