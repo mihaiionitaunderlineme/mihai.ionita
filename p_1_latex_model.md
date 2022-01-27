@@ -49,6 +49,8 @@ facand astfel diferenta dintre (fara cod)
 ![tabel5](https://user-images.githubusercontent.com/16071968/151440207-40880a03-5ea7-4c39-8c06-741ecbedaa15.PNG)
 si dintre (cu cod)
 ![tabel6](https://user-images.githubusercontent.com/16071968/151440333-a1a7595b-f82d-4bb9-84d5-d61711e4f1c2.PNG)
+
+
 Pentru ca aveam nevoie sa definesc numarul paginii ca nr. pagina din nr. total de pagini
 comada realizata cu 
 ```LaTeX
@@ -70,6 +72,19 @@ si dintre (cu cod)
 Pachetul mdframed
 ```LaTeX
 \usepackage{mdframed}
+```
+alaturi de parametrii
+```LaTeX
+\newmdenv[
+  topline=false,
+  bottomline=false,
+  skipabove=\topsep,
+  skipbelow=\topsep,
+  leftmargin=-10pt,
+  rightmargin=-10pt,
+  innertopmargin=0pt,
+  innerbottommargin=0pt
+]{siderules}
 ```
 permite setarea unor bare laterale de-a dreapta si de-a stanga textului. In documentele de calitate acest tip de marcare poate fi folosit pentru evidentierea modificarilor din document realizate fata de editia anterioara. 
 In text pentru inceperea si incheierea marcajului lateral se introduc comenzile:
