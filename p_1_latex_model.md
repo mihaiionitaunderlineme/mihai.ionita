@@ -15,7 +15,7 @@ Permite setarea unui font caracteristic - de interes a fost fontul Arial narrow.
 \setmainfont{arialn.ttf}
 ```
 Rezolvarea problemelor cu textul din tabele. 
-Fara cod avem ca rezultat
+Fara pachet avem ca rezultat
 ![tabel1](https://user-images.githubusercontent.com/16071968/151432253-96c01101-9995-4e2a-952a-97396c4bd46c.PNG)
 iar cu: 
 ```LaTeX
@@ -54,7 +54,7 @@ comada realizata cu
 ```LaTeX
 Pagina \thepage \hspace{1pt} din \pageref{LastPage} 
 ```
-am introdus comenzile:
+am introdus pachetele:
 ```LaTeX
 \usepackage{lastpage} %numar pagina
 \usepackage{fancyhdr} %numar pagina
@@ -67,4 +67,13 @@ face diferenta dintre (fara cod)
 ![tabel7](https://user-images.githubusercontent.com/16071968/151442504-378c32ce-a0bd-4d5d-a1e0-05a304149bb2.PNG)
 si dintre (cu cod)
 ![tabel8](https://user-images.githubusercontent.com/16071968/151442515-ad2693c7-9497-4802-ac17-b1060c8ab445.PNG)
-
+Pachetul mdframed
+```LaTeX
+\usepackage{mdframed}
+```
+permite setarea unor bare laterale de-a dreapta si de-a stanga textului. In documentele de calitate acest tip de marcare poate fi folosit pentru evidentierea modificarilor din document realizate fata de editia anterioara. 
+In text pentru inceperea si incheierea marcajului lateral se introduc comenzile:
+```LaTeX
+\begin{siderules}
+\end{siderules}
+```
