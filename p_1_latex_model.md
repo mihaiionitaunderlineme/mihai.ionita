@@ -4,7 +4,10 @@
 <br>PDF<br>
 [instructiune_lucru_template.pdf](https://github.com/mihaiionitaunderlineme/mihai.ionita/files/7953045/instructiune_lucru_template.pdf)
 <br>COD<br>
-\begin{math}
+```javascript
 \documentclass[11pt,a4paper]{article} code
-\end{math}
+```
 Test
+```LaTeX
+\documentclass[11pt,a4paper]{article} code
+```
