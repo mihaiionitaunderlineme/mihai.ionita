@@ -16,14 +16,14 @@ Permite setarea unui font caracteristic - de interes a fost fontul Arial narrow.
 ```
 Rezolvarea problemelor cu textul din tabele. 
 Fara pachet avem ca rezultat<br>
-![tabel1](https://github.com/mihaiionitaunderlineme/mihai.ionita/blob/master/images/tabel1.PNG)
+![tabel1](/images/tabel1.PNG)
 iar cu: <br>
 ```LaTeX
 \usepackage{makecell} 
 \setcellgapes{5pt}
 ```
 <br>
-![tabel2](https://github.com/mihaiionitaunderlineme/mihai.ionita/blob/master/images/tabel2.PNG)<br>
+![tabel2](/images/tabel2.PNG)<br>
 Ca cerinta specifica aveam trecerea de la Nivelul I - Capitolul 4, Nivelul II - Subcapitolul 4,1 catre nivelul III care trebuia sa contina enumerarea pe baza de litere. 
 Fara cod avem ca rezultat<br>
 ![tabel3](https://github.com/mihaiionitaunderlineme/mihai.ionita/blob/master/images/tabel3.PNG)
