@@ -37,8 +37,8 @@ In vederea realizarii primei pagini s-a introdus secventa de cod <br>
 ```LaTeX
 \newcommand{\size}[2]{{\fontsize{#1}{0}\selectfont#2}}
 \newenvironment{sizepar}[2]
- {\par\fontsize{#1}{#2}\selectfont}
- {\par}
+{\par\fontsize{#1}{#2}\selectfont}
+{\par}
 ``` 
 <br>
 Iar pentru incadrarea in pagina secventa de cod <br>
