@@ -26,13 +26,13 @@ iar cu: <br>
 ![tabel2](/images/tabel2.PNG)<br>
 Ca cerinta specifica aveam trecerea de la Nivelul I - Capitolul 4, Nivelul II - Subcapitolul 4,1 catre nivelul III care trebuia sa contina enumerarea pe baza de litere. 
 Fara cod avem ca rezultat<br>
-![tabel3](https://github.com/mihaiionitaunderlineme/mihai.ionita/blob/master/images/tabel3.PNG)
+![tabel3](/images/tabel3.PNG)
 iar cu: <br>
 ```LaTeX
 \usepackage[shortlabels]{enumitem}
 ```
 <br>
-![tabel4](https://github.com/mihaiionitaunderlineme/mihai.ionita/blob/master/images/tabel4.PNG) <br>
+![tabel4](/images/tabel4.PNG) <br>
 In vederea realizarii primei pagini s-a introdus secventa de cod <br>
 ```LaTeX
 eroare comada - de introdus
@@ -47,9 +47,9 @@ Iar pentru incadrarea in pagina secventa de cod <br>
 ```
 <br>
 facand astfel diferenta dintre (fara cod)<br>
-![tabel5](https://github.com/mihaiionitaunderlineme/mihai.ionita/blob/master/images/tabel5.PNG)
+![tabel5](/images/tabel5.PNG)
 si dintre (cu cod)<br>
-![tabel6](https://github.com/mihaiionitaunderlineme/mihai.ionita/blob/master/images/tabel6.PNG)
+![tabel6](/images/tabel6.PNG)
 <br>
 Pentru ca aveam nevoie sa definesc numarul paginii ca nr. pagina din nr. total de pagini
 comada realizata cu  <br>
@@ -66,9 +66,9 @@ Pagina \thepage \hspace{1pt} din \pageref{LastPage}
 \hspace{1pt} 
 ```
 <br>face diferenta dintre (fara cod)<br>
-![tabel7](https://github.com/mihaiionitaunderlineme/mihai.ionita/blob/master/images/tabel7.PNG)
+![tabel7](/images/tabel7.PNG)
 si dintre (cu cod)<br>
-![tabel8](https://github.com/mihaiionitaunderlineme/mihai.ionita/blob/master/images/tabel8.PNG)
+![tabel8](/images/tabel8.PNG)
 <br>Pachetul mdframed<br>
 ```LaTeX
 \usepackage{mdframed}
