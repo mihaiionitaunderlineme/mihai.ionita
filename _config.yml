@@ -9,3 +9,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Master Specializarea Aplicații moderne ale biotehnologiilor în agricultură, 2013, USAMVB
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
