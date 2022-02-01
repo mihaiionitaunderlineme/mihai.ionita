@@ -35,10 +35,12 @@ iar cu: <br>
 ![tabel4](/images/tabel4.PNG) <br>
 In vederea realizarii primei pagini s-a introdus secventa de cod <br>
 ```LaTeX
+{% raw %}
 \newcommand{\size}[2]{{\fontsize{#1}{0}\selectfont#2}}
 \newenvironment{sizepar}[2]
 {\par\fontsize{#1}{#2}\selectfont}
 {\par}
+{% endraw %}
 ``` 
 <br>
 Iar pentru incadrarea in pagina secventa de cod <br>
