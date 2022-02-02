@@ -1,8 +1,8 @@
 Portfoliu
 ---
-Standardizarea realizării instrucțiunilor și procedurilor de lucru in LaTex cu ajutorul platformei overleaf.com
-[Model pentru redactarea unui instrucțiuni de lucru](/p_1_latex_model.md)
-Limbajul Braille si mimico-gestual, resurse educaționale
+Standardizarea realizării instrucțiunilor și procedurilor de lucru in LaTex cu ajutorul platformei overleaf.com<br>
+[Model pentru redactarea unui instrucțiuni de lucru](/p_1_latex_model.md) <br>
+Limbajul Braille si mimico-gestual, resurse educaționale<br>
 [Limbajul Braille](/nonverbal_1.md) <br>
 [Limbajul mimico-gestual](/nonverbal_2.md)
 ---
