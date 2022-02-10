@@ -1,6 +1,5 @@
 Lectii agricultura in format Braille<br>
 ![lectia1_BRF](/LECTIE_1_ABUTILON_PHASEOLUS_SHAPE.BRF)
-![tabel1](/images/al)
 Resurse: <br>
 http://spdv.ro/braille/ - Şcoala pentru Deficienţi de Vedere  - Lecții Braille și convertor Braille
 https://www.robobraille.org/ro/ - convertor Braille cu functii avansate
