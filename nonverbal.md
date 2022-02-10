@@ -1,4 +1,4 @@
-Lectii agricultura in format Braille, realizate cu ajutorul aplicatiei BRAILLE_BLASTER<br>
+Lectii agricultura in format Braille, realizate cu ajutorul aplicatiei BRAILLE BLASTER, https://www.brailleblaster.org/download.php<br>
 [LECTIE_1_ABUTILON_PHASEOLUS_SHAPE_BRAILLE_BLASTER](https://github.com/mihaiionitaunderlineme/mihai.ionita/files/8044405/LECTIE_1_ABUTILON_PHASEOLUS_SHAPE_BRAILLE_BLASTER.zip)<BR>
 [LECTIE_1_ABUTILON_PHASEOLUS_SHAPE.pdf](https://github.com/mihaiionitaunderlineme/mihai.ionita/files/8044429/LECTIE_1_ABUTILON_PHASEOLUS_SHAPE.pdf)
 
