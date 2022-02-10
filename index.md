@@ -2,7 +2,6 @@
 ---
 Standardizarea realizării instrucțiunilor și procedurilor de lucru in LaTex cu ajutorul platformei overleaf.com<br>
 [Model pentru redactarea unui instrucțiuni de lucru](/p_1_latex_model.md) <br>
----
 Limbajul Braille si mimico-gestual, resurse educaționale<br>
 [Limbajul Braille](/nonverbal.md) <br>
 ---
