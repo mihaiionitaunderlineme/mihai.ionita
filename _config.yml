@@ -2,13 +2,7 @@ title: Ioniță Mihai # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   mihaiionita_me@hotmail.com
-  <br>
-  +40729252886
-  <br>
-  Inginer Biotehnolog, Specializarea Biotehnologii agricole, 2011, USAMVB 
-  <br>
-  Master Specializarea Aplicații moderne ale biotehnologiilor în agricultură, 2013, USAMVB
-theme: jekyll-theme-minimal
+ theme: jekyll-theme-minimal
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
